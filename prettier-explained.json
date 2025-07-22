@@ -1,0 +1,19 @@
+{
+  "// printWidth": "Максимальная длина строки — 120 символов",
+  "printWidth": 120,
+
+  "// singleQuote": "Только одинарные кавычки",
+  "singleQuote": true,
+
+  "// semi": "Всегда ставим точку с запятой",
+  "semi": true,
+
+  "// trailingComma": "Висячая запятая для многострочных объектов/массивов",
+  "trailingComma": "all",
+
+  "// bracketSpacing": "Пробелы внутри фигурных скобок",
+  "bracketSpacing": true,
+
+  "// arrowParens": "Всегда использовать скобки вокруг параметров стрелочных функций",
+  "arrowParens": "always"
+}
